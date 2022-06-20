@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RWDataPlyr"]
+	path = RWDataPlyr
+	url = https://github.com/bouldercodehub/rwdataplyr
+	shallow = true
+	registered = true
